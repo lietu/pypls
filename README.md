@@ -39,3 +39,10 @@ do whatever you want with it, as long as you don't blame me if it breaks somethi
 However, it really shouldn't break anything.
 
 More details in the LICENSE.md file.
+
+
+# Financial support
+
+This project has been made possible thanks to [Cocreators](https://cocreators.ee) and [Lietu](https://lietu.net). You can help us continue our open source work by supporting us on [Buy me a coffee](https://www.buymeacoffee.com/cocreators).
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cocreators)
